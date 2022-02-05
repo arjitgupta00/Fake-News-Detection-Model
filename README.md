@@ -1,5 +1,5 @@
 # Fake-News-Detection-Model
-Fake News Detection Model using Linear Regression
+## Fake News Detection Model using Linear Regression
 Data sets for practice contain the testing and training datasets.
 Trainer.py file is set to train our model using the train.csv file in the above stated directory.
 FND_backend.py contains the testing program
